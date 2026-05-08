@@ -71,3 +71,48 @@ export default defineConfig([
   },
 ])
 ```
+
+
+# 🔐 Cipher Vault
+
+Cipher Vault is a secure password management system built using Java.
+
+The project focuses on secure credential storage, authentication, and applying core Object-Oriented Programming concepts in a practical application.
+
+---
+
+# 🚀 Features
+
+- Secure password storage
+- User authentication
+- Credential management
+- File handling for persistent storage
+- Clean console-based interface
+
+---
+
+# 🛠 Tech Stack
+
+- Java
+- OOP Concepts
+- File Handling
+
+---
+
+# 📚 Learning Outcomes
+
+Through this project, I explored:
+- Object-Oriented Design
+- Secure data handling concepts
+- Java file management
+- Structuring real-world console applications
+
+---
+
+# 🔮 Future Improvements
+
+- GUI/Desktop Interface
+- Database Integration
+- Encryption Enhancements
+- Cloud Backup Support
+
